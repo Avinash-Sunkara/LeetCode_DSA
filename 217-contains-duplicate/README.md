@@ -1,6 +1,6 @@
 # 217. Contains Duplicate
 
-🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/contains-duplicate/)
+🟢 <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /> &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/contains-duplicate/)
 
 **Topics:** Array, Hash Table, Sorting
 
