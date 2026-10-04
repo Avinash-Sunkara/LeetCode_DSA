@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/maximum-subarray">Maximum Subarray</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an integer array <code>nums</code>, find the <span data-keyword="subarray-nonempty">subarray</span> with the largest sum, and return <em>its sum</em>.</p>
+# 53. Maximum Subarray
+
+🟡 **Medium** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/maximum-subarray/)
+
+**Topics:** Array, Divide and Conquer, Dynamic Programming
+
+---
+
+<p>Given an integer array <code>nums</code>, find the <span data-keyword="subarray-nonempty">subarray</span> with the largest sum, and return <em>its sum</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
@@ -35,3 +43,8 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> If you have figured out the <code>O(n)</code> solution, try coding another solution using the <strong>divide and conquer</strong> approach, which is more subtle.</p>
+
+
+---
+
+**My Solution:** [53-Maximum-Subarray.java](./53-Maximum-Subarray.java)
