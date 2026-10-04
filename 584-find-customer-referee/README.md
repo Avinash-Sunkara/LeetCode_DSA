@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/find-customer-referee">Find Customer Referee</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Customer</code></p>
+# 584. Find Customer Referee
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-customer-referee/)
+
+**Topics:** Database
+
+---
+
+<p>Table: <code>Customer</code></p>
 
 <pre>
 +-------------+---------+
@@ -51,3 +59,8 @@ Customer table:
 | Zack |
 +------+
 </pre>
+
+
+---
+
+**My Solution:** [584-Find-Customer-Referee.sql](./584-Find-Customer-Referee.sql)
