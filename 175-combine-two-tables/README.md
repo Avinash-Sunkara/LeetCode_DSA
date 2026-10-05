@@ -1,4 +1,12 @@
-<h2><a href="https://leetcode.com/problems/combine-two-tables">Combine Two Tables</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Table: <code>Person</code></p>
+# 175. Combine Two Tables
+
+🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/combine-two-tables/)
+
+**Topics:** Database
+
+---
+
+<p>Table: <code>Person</code></p>
 
 <pre>
 +-------------+---------+
@@ -67,3 +75,8 @@ Address table:
 There is no address in the address table for the personId = 1 so we return null in their city and state.
 addressId = 1 contains information about the address of personId = 2.
 </pre>
+
+
+---
+
+**My Solution:** [175-Combine-Two-Tables.sql](./175-Combine-Two-Tables.sql)
