@@ -1,5 +1,6 @@
 # 136. Single Number
 
+ <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>
 🟢 **Easy** &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/single-number/)
 
 **Topics:** Array, Bit Manipulation
